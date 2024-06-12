@@ -11,6 +11,7 @@ This task involves data loading, model training, parameter tuning and performanc
 ## Prerequisites
 **Software Dependencies**:
 - Python 3
+
 **Development Tools**:
 - Jupyter Notebook
 - Visual Studio Code
