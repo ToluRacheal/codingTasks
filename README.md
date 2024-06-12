@@ -1,4 +1,5 @@
 # Image Processing
+**mnist_task**
 ## Table of Contents
 - Introduction
 - Prerequisites
