@@ -21,6 +21,6 @@ This task involves data loading, model training, parameter tuning and performanc
 - pip install scikit-learn
 - pip install numpy
 ## Usage
-Following the installation of the code, several library imports bringing particular classes and functions will become visible. An image of how the code should look has been added to the repository. 
+Following the installation of the code, several library imports bringing particular classes and functions will become visible. An image (Image Processing.png) of how the code should look has been added to the repository. 
 ## Credits
 Tolu Racheal Dawodu
